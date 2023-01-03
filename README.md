@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @snely-coder
+- 👀 I’m interested in developping my coding skills
+- 🌱 I’m currently learning tech such as wordpress and javascript frameworks
